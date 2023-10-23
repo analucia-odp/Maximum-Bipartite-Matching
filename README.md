@@ -20,7 +20,7 @@ make>;
 * Com esse comando, será gerado o executável do programa;
 * Proceda dessa maneira: 
 ```
- ./tp01 < casoTeste01.txt
+ ./tp02 < casoTeste01.txt
 ```
 * Um exemplo do arquivo de entrada esta presente no diretório corrente;
 * Utilize o seguinte comando: <make clean> para remover objetos e o executável.
